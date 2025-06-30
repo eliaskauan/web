@@ -1,0 +1,28 @@
+{
+  "metadados": {
+    "timestamp": "2025-06-30 10:33:06",
+    "versao_scraper": "2.0.0",
+    "codigo_produto": "20101555"
+  },
+  "produto": {
+    "link_produto": "https://www.parts-unlimited.com/product/20101555",
+    "descricao_titulo": "Produto de Exemplo - Demonstração",
+    "sub_descricao": "Esta é uma sub-descrição de exemplo",
+    "features": "• Feature 1: Resistente à água\n• Feature 2: Alta durabilidade\n• Feature 3: Fácil instalação",
+    "specs": "Material: Alumínio | Peso: 2.5kg | Dimensões: 10x5x3cm",
+    "part_codes": "ABC123, XYZ789, DEF456",
+    "part_notices": "Importante: Verificar compatibilidade antes da instalação",
+    "certifications": "ISO 9001, CE Mark",
+    "references": "Manual técnico: https://example.com/manual.pdf",
+    "package_info": "Embalagem individual, inclui parafusos",
+    "size_chart": "Consultar tabela de medidas no site",
+    "video_url": "https://youtube.com/watch?v=exemplo",
+    "imagens_urls": "https://example.com/img1.jpg; https://example.com/img2.jpg",
+    "substituicao_oem": "Substitui peças OEM: 12345, 67890",
+    "tabela_ajustes": "Modelo A: 2010-2015 | Modelo B: 2016-2020",
+    "texto_ajustes": "Compatível com todos os modelos da série X",
+    "link_catalogo": "https://example.com/catalog.pdf",
+    "imagem_diretorio": "https://example.com/directory.jpg",
+    "video_detalhado": "https://example.com/detailed_video.mp4"
+  }
+}

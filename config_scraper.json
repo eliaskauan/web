@@ -1,0 +1,29 @@
+{
+  "credenciais": {
+    "url_login": "https://www.parts-unlimited.com/login",
+    "username": "usuario_demo",
+    "password": "senha_demo123",
+    "selector_username": "#username, input[name=\"username\"], input[type=\"email\"]",
+    "selector_password": "#password, input[name=\"password\"], input[type=\"password\"]",
+    "selector_login_btn": "button[type=\"submit\"], input[type=\"submit\"], .login-btn"
+  },
+  "configuracoes": {
+    "diretorio_imagens": "images/",
+    "diretorio_videos": "videos/",
+    "delay_min": 2,
+    "delay_max": 8,
+    "max_tentativas": 3,
+    "timeout": 30000,
+    "salvar_cada_n": 5,
+    "criar_backup": true,
+    "headless": true,
+    "debug": false
+  },
+  "produtos": [
+    "20101555",
+    "20101556",
+    "20101557",
+    "ABC123",
+    "XYZ789"
+  ]
+}

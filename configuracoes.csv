@@ -1,0 +1,11 @@
+Configuração,Valor
+Diretório Imagens,images/
+Diretório Vídeos,videos/
+Delay Mínimo (seg),2
+Delay Máximo (seg),8
+Max Tentativas,3
+Timeout (ms),30000
+Salvar a cada N produtos,5
+Criar backup,SIM
+Modo Headless,SIM
+Debug,NAO

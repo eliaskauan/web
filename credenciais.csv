@@ -1,0 +1,9 @@
+Configuração,Valor
+URL Login,https://www.parts-unlimited.com/login
+Username,seu_usuario_aqui
+Password,sua_senha_aqui
+,
+Seletores CSS,
+Campo Username,"#username, input[name=""username""], input[type=""email""]"
+Campo Password,"#password, input[name=""password""], input[type=""password""]"
+Botão Login,"button[type=""submit""], input[type=""submit""], .login-btn"
