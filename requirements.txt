@@ -1,0 +1,21 @@
+# Dependências do projeto Parts Unlimited Scraper
+
+# Web scraping principal
+playwright>=1.40.0
+
+# Processamento de dados
+pandas>=2.0.0
+openpyxl>=3.1.0  # Para trabalhar com arquivos Excel
+
+# Utilidades
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pillow>=10.0.0  # Para processamento de imagens
+
+# Opcional: fallback para scraping com requests
+lxml>=4.9.0
+html5lib>=1.1
+
+# Utilitários adicionais
+python-dotenv>=1.0.0  # Para configurações de ambiente
+pathlib>=1.0.0  # Para manipulação de caminhos
